@@ -1,4 +1,4 @@
-# 4. Bash techniques used in this pipeline
+docs# 4. Bash techniques used in this pipeline
 
 The basics (variables, `if`, loops, `case`, functions, redirection, conda environments) are explained line by line in `legacy/run_pipeline_explained.md`, which you wrote for v1. This page covers what is **new in v2**, in the order you meet it in the code.
 
