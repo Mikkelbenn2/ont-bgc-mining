@@ -1,4 +1,4 @@
-# 1. Concepts: from soil isolate to candidate antibiotic
+steps# 1. Concepts: from soil isolate to candidate antibiotic
 
 This page explains the ideas behind the pipeline. The step-by-step details are in `02_pipeline_steps.md`.
 
